@@ -13,6 +13,7 @@ import isInternalUrl from '@docusaurus/isInternalUrl';
 import styles from './styles.module.css';
 import ThemedImage from '@theme/ThemedImage';
 import IconExternalLink from '@theme/IconExternalLink';
+import logoVNPT from '@site/static/img/logo_icon.png';
 
 const LogoOneSME = require('@site/static/img/oneSMELogoWhite.svg').default
 
@@ -67,8 +68,10 @@ function Footer() {
       })} style={{ padding: '2rem 0 1rem 0'}}>
       <div className="w-full">
 		  <div className="flex justify-between container">
+            <div>
+                <img src={logoVNPT} alt="logo" width="50px" height="50px"/> <h3>DAC</h3>
+            </div>
 
-		  <LogoOneSME alt="logo"/>
 		  <div>
         {links && links.length > 0 && (
           <div className="row footer__links">

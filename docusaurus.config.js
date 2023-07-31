@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-	title: 'Nền tảng oneSME',
+	title: 'DAC',
 	tagline: 'Hướng dẫn sử dụng',
 	url: 'https://onesme.com.vn',
 	baseUrl: '/',
@@ -11,10 +11,10 @@ module.exports = {
 	projectName: 'docusaurus', // Usually your repo name.
 	themeConfig: {
 		navbar: {
-			title: 'oneSME Docs',
+			title: 'DAC',
 			logo: {
-				alt: 'oneSME Docs',
-				src: 'img/logo2.svg',
+				alt: 'DAC',
+				src: 'img/logo_main.png',
 			},
 			hideOnScroll: true,
 			items: [
@@ -87,19 +87,6 @@ module.exports = {
 				// 	],
 				// },
 				{
-					title: 'Liên hệ',
-					items: [
-						{
-							label: 'Chăm sóc khách hàng',
-							href: '/',
-						},
-						{
-							label: 'Đại lý phân phối',
-							href: '/',
-						},
-					],
-				},
-				{
 					title: 'About',
 					items: [
 						{
@@ -109,7 +96,7 @@ module.exports = {
 					],
 				},
 			],
-			copyright: `Copyright © ${new Date().getFullYear()} oneSME, Inc. Built by VNPT-Technology.`,
+			copyright: `Copyright © ${new Date().getFullYear()} DAC, Inc. Built by VNPT-Technology.`,
 		},
 	},
 	presets: [
