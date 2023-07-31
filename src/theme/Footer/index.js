@@ -14,7 +14,7 @@ import styles from './styles.module.css';
 import ThemedImage from '@theme/ThemedImage';
 import IconExternalLink from '@theme/IconExternalLink';
 
-// const LogoOneSME = require('@site/static/img/oneSMELogoWhite.svg').default
+const LogoOneSME = require('@site/static/img/oneSMELogoWhite.svg').default
 
 function FooterLink({to, href, label, prependBaseUrlToHref, ...props}) {
   const toUrl = useBaseUrl(to);
@@ -68,7 +68,7 @@ function Footer() {
       <div className="w-full">
 		  <div className="flex justify-between container">
 
-		  {/*<LogoOneSME alt="logo"/>*/}
+		  <LogoOneSME alt="logo"/>
 		  <div>
         {links && links.length > 0 && (
           <div className="row footer__links">

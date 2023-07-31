@@ -17,7 +17,9 @@ import { matchPath } from '@docusaurus/router';
 import { translate } from '@docusaurus/Translate';
 import clsx from 'clsx';
 import { ThemeClassNames, docVersionSearchTag } from '@docusaurus/theme-common';
-
+import bannerSME from '@site/static/img/bannerSME.png';
+import bannerDev from '@site/static/img/bannerDev.png';
+import bannerAdmin from '@site/static/img/bannerAdmin.png';
 import { useHistory, useLocation } from 'react-router-dom';
 import axios from 'axios';
 
@@ -110,9 +112,10 @@ function DocPageContent({ currentDocRoute, versionMetadata, children }) {
 		const portalPath = pathname.split('/')[2] || 'dac';
 		return {
 			dac: {
-				text: 'DAC',
+				text: 'oneSME',
+				banner: bannerSME,
 				portal: portalPath,
-			}
+			},
 		}[portalPath];
 	}, [pathname]);
 
@@ -215,7 +218,7 @@ function DocPageContent({ currentDocRoute, versionMetadata, children }) {
 							<span>dịch vụ</span>
 							<span style={{ color: '#2C3D94' }}> {text}</span>
 						</div>
-						<img src={banner} title="main dac" />
+						<img src={banner} title="main sme" />
 						<div className={styles.docMainBanner_bg} />
 					</div>
 					<div

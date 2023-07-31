@@ -1,11 +1,23 @@
 {
-  "dac": [
-    "dac/gioi-thieu",
-    {
-      "Thiết bị": ["dac/device/view-list", "dac/device/search"]
-    },
-    {
-      "Hợp đồng": ["dac/contract/view-list", "dac/contract/create"]
-    }
-  ]
+
+	"dac":  [
+			"dac/gioi-thieu",
+			{
+				"Quản lý tài khoản": [
+					"dac/quan-ly-tai-khoan/tai-khoan-doanh-nghiep",
+					"dac/quan-ly-tai-khoan/tai-khoan-nhan-vien"
+				]
+			},
+			"dac/quan-ly-phong-ban",
+			{
+				"Quản lý thuê bao": [
+					"dac/quan-ly-thue-bao/goi-dung-thu",
+					"dac/quan-ly-thue-bao/goi-dich-vu"
+				]
+			},
+			"dac/quan-ly-hoa-don",
+			"dac/quan-ly-phieu-ho-tro",
+			"dac/quan-ly-danh-gia-nhan-xet"
+		]
+
 }
