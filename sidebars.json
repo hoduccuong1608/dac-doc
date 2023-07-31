@@ -1,0 +1,11 @@
+{
+  "dac": [
+    "dac/gioi-thieu",
+    {
+      "Thiết bị": ["dac/device/view-list", "dac/device/search"]
+    },
+    {
+      "Hợp đồng": ["dac/contract/view-list", "dac/contract/create"]
+    }
+  ]
+}
