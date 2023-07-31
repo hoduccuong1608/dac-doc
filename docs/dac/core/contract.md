@@ -4,17 +4,29 @@ Kinh doanh tạo các Hợp đồng dựa trên hợp đồng đã ký vật lý
 Danh sách hợp đồng là tất cả các hợp đồng do người dùng trên hệ thống DAC tạo ra, có thể xem danh sách hợp đồng như sau
 - Bước 1: Đăng nhập vào hệ thống > truy cập vào mục “Đặt hàng” > chọn Hợp đồng
 Hệ thống hiển thị danh sách hợp đồng đã tạo
+<<<<<<< HEAD
 ![SO_list.png](/img/order_contract/SO_list.png)
 - Bước 2: Người dùng có thể tìm kiếm các trong danh sách và bấm vào mã hợp đồng để xem chi tiết 
 <!-- Ảnh cap màn hình có khoanh vào các searchbox tìm kiếm và textlink -->
+=======
+![SO_list.png](\img\order_contract\SO_list.png) 
+- Bước 2: Người dùng có thể tìm kiếm các trong danh sách 
+![SO_list_01](\img\order_contract\SO_list_01.png)
+>>>>>>> 1858cb9 (rebase code)
 ## 2. Tạo mới hợp đồng
 Người dùng có thể tạo mới yêu cầu xuất kho bằng 2 cách: nhập tay hoặc import file excel thông tin hợp đồng.  
 Đăng nhập vào hệ thống > truy cập vào mục “Đặt hàng” > vào “Hợp đồng”.  
 **Cách 1: Import thông tin hợp đồng bằng file excel**  
 - Bước 1: Tại màn hình danh sách hợp đồng, bấm nút “NHẬP EXCEL”
+<<<<<<< HEAD
 <!-- Ảnh chụp màn hình focus vào button Nhập excel -->
 - Bước 2: Tải lên file import, bấm vào nút TẢI FILE để tải lên file excel hợp đồng cần nhập. Nếu cần lấy file mẫu bạn cũng có thể tải tại màn hình này
 <!-- Ảnh popup Tải lên hợp đồng -->
+=======
+![SO_import](\img\order_contract\SO_import.png) 
+- Bước 2: Tải lên file import, bấm vào nút TẢI FILE để tải lên file excel hợp đồng cần nhập. Nếu cần lấy file mẫu bạn cũng có thể tải tại màn hình này
+![SO_popup_import.png](\img\order_contract\SO_popup_import.png) 
+>>>>>>> 1858cb9 (rebase code)
 - Bước 3: Bấm nút ĐỒNG Ý để hệ thống thực hiện lưu thông tin file import
 <!-- Ảnh popup Tải lên hợp đồng, focus đồng ý -->
 - Bước 4: Kiểm tra lại hợp đồng vừa tạo tại màn hình Danh sách hợp đồng. Hợp đồng tạo ra có trạng thái Mới, hiển thị trên đầu danh sách, bấm vào mã hợp đồng để xem chi tiết hợp đồng

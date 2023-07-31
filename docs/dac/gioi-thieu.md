@@ -1,3 +1,8 @@
 # Giới thiệu
-- Hệ thống dành cho đối tượng là các doanh nghiệp SME có thể dễ dàng tìm kiếm các ứng dụng dịch vụ trên MarketPlace của nền tảng oneSME. Giúp các SMEs dễ dàng quản lý các gói ứng dụng sản phẩm đang sử dụng, các hóa đơn, hợp đồng phần mềm …
-- Hướng dẫn sử dụng này được xây dựng để phục vụ công việc hướng dẫn sử dụng chi tiết các tính năng/ chức năng cơ bản và nâng cao trong Nền tảng oneSME. Nội dung trình bày trong tài liệu ngắn gọn, theo trình tự các chức năng và hướng dẫn thực hiện từng bước một. Vì vậy, người dùng có thể dễ dàng sử dụng chương trình thông qua tài liệu này.
+Hệ thống quản lý thông tin thiết bị DAC được xây dựng nhằm đáp ứng nhu cầu quản lý các thiết bị do VNPT Technology sản xuất. 
+- Version 1 của hệ thống đảm nhiệm việc quản lý toàn độ vòng đời thiết bị CPE từ khi xuất xưởng, kích hoạt dịch vụ cho khách hàng cho tới khi khách hàng rời mạng, đồng thời liên thông với hệ thống ĐHSXKD của Tập đoàn để cập nhật, lưu trữ các thông tin về khách hàng, gói cước dịch vụ của VNPT cung cấp nhằm phục vụ cho các nghiệp vụ quản lý thông tin, đối soát cước, chia sẻ doanh thu giữa VNPT Techology và VNPT. 
+- Version 1.1 bổ sung luồng khách hàng Vinaphone thực hiện đặt hàng ngay trên hệ thống.
+- Version 2.0 cập nhật và cải tiến việc quản lý vòng đời của thiết bị hướng đến người sử dụng cuối là các cấp quản lý và các đơn vị phụ trách luồng đặt hàng
+- Version 2.1 đồng bộ quản lý thông tin cho thiết bị ONT/ STB. Bổ sung Báo cáo tự động qua email, Báo cáo đối soát
+- Version 2.2 tích hợp quản lý thông tin sản xuất, bổ sung báo cáo tự động qua tin nhắn
+- Version 2.2.1 cải tiến hệ thống theo yêu cầu kinh doanh
