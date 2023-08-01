@@ -21,7 +21,10 @@
             "dac/qlsx/WIP",
             "dac/qlsx/workorder_report",
             {
-              "Báo cáo tỉ lệ FPY/Yield rate": ["dac/qlsx/FPY_station"]
+              "Báo cáo tỉ lệ FPY/Yield rate": [
+                "dac/qlsx/FPY_station",
+                "dac/qlsx/FPY_stage"
+              ]
             }
           ]
         }

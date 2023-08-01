@@ -54,7 +54,7 @@ Cho phép chỉnh sửa thông tin Lệnh
 - Bước 5: Bấm Lưu, để hệ thống lưu thông tin cập nhật mới, sau khi lưu, hệ thống chuyển đến màn hình chi tiết với các thông tin như vừa cập nhật
   ![img16.png](/img/Workorder/img16.png)
 
-### 5. Xóa lệnh
+## 5. Xóa lệnh
 
 Cho phép xóa những Lệnh ở trạng thái Mở
 
