@@ -2,10 +2,24 @@
   "dac": [
     "dac/gioi-thieu",
     {
-      "Quản lý sản xuát": [
-		"dac/qlsx/routing",
-		"dac/qlsx/workorder"
-	]
+      "Quản lý sản xuất": [
+        "dac/qlsx/routing",
+        "dac/qlsx/workorder",
+        "dac/qlsx/shift",
+        "dac/qlsx/quality_goals",
+        "dac/qlsx/pro_info1",
+        "dac/qlsx/Realtime",
+        {
+          "Báo cáo - thống kê": [
+            "dac/qlsx/pro_info2",
+            "dac/qlsx/WIP",
+            "dac/qlsx/workorder_report",
+            {
+              "Báo cáo tỉ lệ FPY/Yield rate": ["dac/qlsx/FPY_station"]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

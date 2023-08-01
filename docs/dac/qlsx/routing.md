@@ -1,13 +1,8 @@
 # Routing
 
-Module Quản lý sản xuất được phát triển với mục đích lưu trữ và truy xuất thông tin sản xuất. Để đáp ứng nhu cầu này, hệ thống DAC bổ sung module Quản lý sản xuất. Khi truy cập vào hệ thống, click vào icon![Icon1.png](/img/routing/Icon1.png)góc trên bên phải màn hình, sau đó chọn phân hệ Quản lý sản xuất
-![img1.png](/img/routing/img1.png)
-
-## 2.2.1. Quản lý Routing
-
 Cho phép các bên liên quan (PEO) khai báo thông tin Routing, từ đó tính toán được các thông số theo kế hoạch
 
-### 2.2.1.1 Xem danh sách Routing
+## 1. Xem danh sách Routing
 
 Danh sách Routing là tất cả các Routing do người dùng trên hệ thống tạo ra, có thể xem danh sách Routing như sau
 
@@ -23,7 +18,7 @@ Danh sách Routing là tất cả các Routing do người dùng trên hệ th�
   ![img2.png](/img/routing/img2.png)
   ![img3.png](/img/routing/img3.png)
 
-### 2.2.1.2 Tạo mới Routing (Tạo mới, nhập, sao chép)
+## 2. Tạo mới Routing (Tạo mới, nhập, sao chép)
 
 Người dùng có thể tạo mới Routing bằng các cách: nhập tay, import file excel thông tin Routing hoặc copy Routing đã có trên hệ thống
 
@@ -55,7 +50,7 @@ Người dùng có thể tạo mới Routing bằng các cách: nhập tay, impo
 
 - Bước 4: Kiểm tra lại Routing vừa tạo ở màn hình danh sách, Routing hiển thị trên đầu danh sách ở trạng thái “inactive”
 
-### 2.2.1.3 Chi tiết Routing (Chi tiết, Lịch sử)
+## 3. Chi tiết Routing (Chi tiết, Lịch sử)
 
 Cho phép người dùng xem thông tin chi tiết, lịch sử thay đổi của Routing trên hệ thống
 
@@ -67,7 +62,7 @@ Cho phép người dùng xem thông tin chi tiết, lịch sử thay đổi củ
 - Bước 4: Hệ thống hiển thị lịch sử thay đổi của Routing tương ứng
   ![img15.png](/img/routing/img15.png)
 
-### 2.2.1.4 Sửa Routing
+## 4. Sửa Routing
 
 Cho phép chỉnh sửa thông tin Routing có trạng thái inactive
 
@@ -82,7 +77,7 @@ Cho phép chỉnh sửa thông tin Routing có trạng thái inactive
 - Bước 5: Bấm Lưu, để hệ thống lưu thông tin cập nhật mới, sau khi lưu, hệ thống chuyển đến màn hình chi tiết với các thông tin như vừa cập nhật
   ![img20.png](/img/routing/img20.png)
 
-### 2.2.1.5 Xóa Routing
+## 5. Xóa Routing
 
 Cho phép xóa những Routing ở trạng thái inactive và chưa có lệnh nào được gán với Routing
 
