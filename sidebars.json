@@ -2,6 +2,12 @@
   "dac": [
     "dac/gioi-thieu",
     {
+      "Quản lý dữ liệu sau bán hàng": [
+        "dac/core/contract",
+        "dac/core/device"
+      ]
+    },
+    {
       "Quản lý sản xuất": [
         "dac/qlsx/routing",
         "dac/qlsx/workorder",

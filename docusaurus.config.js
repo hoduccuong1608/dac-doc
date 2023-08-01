@@ -69,35 +69,7 @@ module.exports = {
 				// 	position: 'right',
 				// },
 			],
-		},
-		footer: {
-			style: 'dark',
-			links: [
-				// {
-				// 	title: 'Tài liệu',
-				// 	items: [
-						// {
-						// 	label: 'Hướng dẫn sử dụng oneSME Portal',
-						// 	to: '/docs/sme/gioi-thieu',
-						// },
-						// {
-						// 	label: 'Hướng dẫn tích hợp Sản phẩm dịch vụ',
-						// 	to: 'docs/spdv/intro',
-						// },
-				// 	],
-				// },
-				{
-					title: 'About',
-					items: [
-						{
-							label: 'VNPT-Technology',
-							href: '/',
-						},
-					],
-				},
-			],
-			copyright: `Copyright © ${new Date().getFullYear()} DAC, Inc. Built by VNPT-Technology.`,
-		},
+		}
 	},
 	presets: [
 		[
