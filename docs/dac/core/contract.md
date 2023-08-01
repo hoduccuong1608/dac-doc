@@ -4,7 +4,7 @@ Kinh doanh tạo các Hợp đồng dựa trên hợp đồng đã ký vật lý
 Danh sách hợp đồng là tất cả các hợp đồng do người dùng trên hệ thống DAC tạo ra, có thể xem danh sách hợp đồng như sau
 - Bước 1: Đăng nhập vào hệ thống > truy cập vào mục “Đặt hàng” > chọn Hợp đồng
 Hệ thống hiển thị danh sách hợp đồng đã tạo
-![SO_list.png](\img\order_contract\SO_list.png)
+![SO_list.png](/img/order_contract/SO_list.png)
 - Bước 2: Người dùng có thể tìm kiếm các trong danh sách và bấm vào mã hợp đồng để xem chi tiết 
 <!-- Ảnh cap màn hình có khoanh vào các searchbox tìm kiếm và textlink -->
 ## 2. Tạo mới hợp đồng

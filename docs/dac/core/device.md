@@ -38,14 +38,7 @@ Người dùng có thể xem danh sách thiết bị, danh sách thiết bị đ
 - Bước 2: Truy cập vào mục “Thiết bị” > chọn “Danh sách thiết bị”
 
   Hiển thị danh sách tất cả thiết bị đã xuất theo đơn hàng của người dùng
-- xin chao
-      
-| a    | b    |
-| ---- | ---- |
-|      | 1    |
-| f    | 2    |
-| bv   | 3    |
-| g    | 4    |
+
 
 
 
