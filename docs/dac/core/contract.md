@@ -79,7 +79,7 @@ Chỉ cho phép xóa hợp đồng ở trạng thái mới và chưa có phiếu
 Các bước xóa hợp đồng như sau:
 - Bước 1: Đăng nhập vào hệ thống > truy cập vào mục “Đặt hàng” > click "Hợp đồng", truy cập màn hình danh sách hợp đồng
 - Bước 2: Kích chọn một hoặc nhiều hợp đồng muốn xóa > nhấn nút “Xóa”   
-
+![SO_de](/img/order_contract/SO_de.png) 
 
 
 

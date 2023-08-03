@@ -4,7 +4,34 @@
     {
       "Quản lý dữ liệu sau bán hàng": [
         "dac/core/contract",
-        "dac/core/device"
+        "dac/core/order",
+        "dac/core/export",
+        "dac/core/device",
+        "dac/core/customer",
+        {
+          "Báo cáo": [
+            "dac/core/device_active",
+            "dac/core/device_warrant",
+            "dac/core/master_device",
+            "dac/core/order_status",
+            "dac/core/device_not_active",
+            "dac/core/base_acttachment",
+            "dac/core/dashboard",
+            {
+              "Báo cáo tự động": [
+                "dac/core/report_mail",
+                {
+                  "Báo cáo tự động qua tin nhắn": [
+                    "dac/core/setting_report",
+                    "dac/core/group_id",
+                    "dac/core/param",
+                    "dac/core/business_plan"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
