@@ -105,3 +105,109 @@ Người dùng có thể xem lại lịch sử thiết bị bằng 2 cách
 Quản lý thông tin thiết bị theo 4 level: Dòng thiết bị, Loại thiết bị, Mã thương mại, Mã MAN
 Thông tin mã MAN được đồng bộ từ hệ thống kho, người dùng có thể xem và tìm kiếm trong danh sách
 ![dv_dong](/img/device/dv_dong.png)
+
+## 7. Thu hồi thiết bị
+
+a. Danh sách Yêu cầu nhập kho là tất cả các Yêu cầu nhập kho do người dùng trên hệ thống DAC tạo ra, có thể xem danh sách Yêu cầu nhập kho như sau
+
+- Bước 1: Đăng nhập vào hệ thống > truy cập vào mục “Thiết bị” > chọn Thu hồi thiết bị
+
+Hệ thống hiển thị danh sách Yêu cầu nhập đã tạo với các trạng thái
+
+- Mới: Khi mới tạo Yêu cầu nhập kho
+- Đang xử lý: Yêu cầu nhập kho đã được xác nhận và đẩy giao dịch sang Inventory và chờ được xử lý.
+- Hoàn thành: Yêu cầu nhập kho đã được Xác nhận bên Inventory và đồng bộ trạng thái về hệ thống DAC
+- Đã hủy: Yêu cầu nhập kho đã hủy
+
+Đối với tài khoản admin: xem danh sách yêu cầu đặt hàng của tất cả các khu vực
+![img1.png](/img/device/img1.png)
+Bước 2: Người dùng có thể tìm kiếm các trường trong danh sách và bấm vào Số phiếu yêu cầu để xem chi tiết
+
+b. Tạo mới Yêu cầu nhập kho
+
+Người dùng có thể tạo mới yêu cầu nhập kho bằng cách: import file excel thông tin yêu cầu nhập kho. Các bước thực hiện:
+
+- Bước 1: Đăng nhập vào hệ thống > Truy cập vào mục “Thiết bị” > Vào “Thu hồi thiết bị”
+
+- Bước 2: Tại màn hình danh sách YCNK, bấm nút “Tạo mới”
+  ![img2.png](/img/device/img2.png)
+- Bước 3: Nhập thông tin các trường dữ liệu, tải lên file danh sách serial import, bấm vào icon ![icon1.png](/img/device/icon1.png) để tải file lên thành công. Nếu cần lấy file mẫu bạn cũng có thể tải tại màn hình này.
+  ![img3.png](/img/device/img3.png)
+- Bước 4: Bấm nút LƯU để hệ thống thực hiện tạo mới YCNK thành công, chuyển đến màn hình chi tiết YCNK.
+  ![img4.png](/img/device/img4.png)
+  ![img5.png](/img/device/img5.png)
+  c. Xem chi tiết Yêu cầu nhập kho
+- Từ màn hình danh sách Hợp đồng, người dùng chọn 1 mã hợp đồng để xem thông tin chi tiết
+- Tại màn hình chi tiết, chỉ được phép xem thông tin và tải các file đính kèm
+- Các hợp đồng đã có Đơn hàng hiển thị danh sách các đơn hàng tương ứng 
+  ![img6.png](/img/device/img6.png)
+
+d. Xác nhận Yêu cầu nhập kho
+
+- Người dùng thực hiện xác nhận Yêu cầu nhập kho để tạo phiếu nhập kho tương ứng sang hệ thống Inventory
+  Các bước thực hiện như sau:
+- Bước 1: Đăng nhập vào hệ thống > truy cập vào mục “Thiết bị” > vào “Thu hồi thiết bị” > chọn Số phiếu yêu cầu nhập kho cần xác nhận. Trạng thái của phiếu cần xác nhận phải = Mới.
+  Hệ thống điều hướng đến màn hình chi tiêt YCNK
+- Bước 2: Bấm chọn button “Xác nhận”  
+  ![img7.png](/img/device/img7.png)
+- Bước 3: Xác nhận tạo phiếu
+  - Hệ thống hiện thị popup xác nhận “Xác nhận tạo phiếu nhập?”
+  - Nhấn nút “Đồng ý” nếu để xác nhận đơn hàng, đồng thời tạo mới phiếu nhập trên hệ thống Inventory.
+- Bước 4: Kiểm tra thông tin phiếu nhập tạo ra trên hệ thống Inventory sau khi xác nhận tại màn hình chi tiết YCNK thông tin trường Số phiếu nhập, Trạng thái YCNK  
+  ![img8.png](/img/device/img8.png)
+  YCNK đã hoàn thành, có trạng thái = Hoàn thành.
+  ![img9.png](/img/device/img9.png)
+
+e. Hủy Yêu cầu nhập kho
+
+Người dùng có thể hủy Yêu cầu nhập kho ở trạng thái Đang xử lý, sau khi hủy YCNK sẽ chuyển sang trạng thái Đã hủy.
+
+- Bước 1: Đăng nhập vào hệ thống > Truy cập vào mục “Thiết bị” > vào “Thu hồi thiết bị” > Chọn Số phiếu yêu cầu muốn hủy
+  - Hệ thống điều hướng đến màn hình chi tiết YCNK, bấm nút “Hủy”
+    ![img10.png](/img/device/img10.png)
+- Bước 2: Xác nhận hủy YCNK
+  - Hệ thống hiển thị popup xác nhận “Xác nhận hủy yêu cầu nhập kho?”
+  - Nhấn nút “Đồng ý” nếu muốn xác nhận yêu cầu xuất kho, nhấn “Hủy” nếu không muốn thực hiện 
+    ![img11.png](/img/device/img11.png)
+    Yêu cầu nhập kho sau khi hủy có trạng thái “Đã hủy”
+    ![img12.png](/img/device/img12.png)
+
+f. Xóa Yêu cầu nhập kho
+
+Cho phép xóa yêu cầu nhập kho ở trạng thái Mới. Các bước xóa yêu cầu nhập kho như sau:
+
+- Bước 1: Đăng nhập vào hệ thống
+- Bước 2: Truy cập vào mục “Thiết bị” > vào “Thu hồi thiết bị”
+  Hệ thống hiển thị màn hình danh sách yêu cầu xuất kho
+- Bước 3: Kích chọn một hoặc nhiều yêu cầu nhập kho muốn xóa > nhấn nút “Xóa”  
+  ![img13.png](/img/device/img13.png)
+- Bước 4: Xác nhận Xóa
+  - Hệ thống hiển thị popup xác nhận “Bạn có chắc chắn muốn xóa không?”
+  - Nhấn nút “Xóa” nếu muốn xóa tài khoản khách hàng đã chọn, nhấn “Hủy Bỏ” nếu không muốn thực hiện  
+    ![img14.png](/img/device/img14.png)
+
+## 8. Điều chuyển thiết bị
+a. *Xem danh sách* 
+
+Danh sách điều chuyển thiết bị là tất cả các Điều chuyển thiết bị do người dùng trên hệ thống DAC tạo ra, có thể xem danh sách điều chuyển thiết bị như sau  
+
+- Bước 1: Đăng nhập vào hệ thống  
+
+- Bước 2: Truy cập vào mục “Thiết bị” > chọn Điều chuyển thiết bị > Hệ thống hiển thị danh sách điều chuyển thiết bị. 
+
+- Bước 3: Người dùng có thể tìm kiếm thông tin bằng cách sử dụng searchbox tương ứng ở các cột thông tin 
+
+Đối với tài khoản admin: xem danh sách Điều chuyển thiết bị của tất cả các khu vực  
+![img15.png](/img/device/img15.png)
+
+- Thông tin lưu ý: Click icon ![icon2.png](/img/device/icon2.png) của 1 bản ghi cho phép tải file list thiết bị tương ứng đã import về máy. 
+
+b.  *Import thông tin điều chuyển*
+
+- Bước 1: Đăng nhập vào hệ thống 
+
+- Bước 2: Truy cập vào mục “Thiết bị” > vào Điều chuyển thiết bị > Click button “Nhập thông tin điều chuyển” 
+![img16.png](/img/device/img16.png)
+- Bước 3: Tại popup “Thông tin điều chuyển” nhập tất cả các trường thông tin hợp lệ > Click “Đồng ý” 
+![img17.png](/img/device/img17.png)
+Thông tin điều chuyển được import thành công, hiển thị ở đầu danh sách với tên và mô tả như đã nhập
