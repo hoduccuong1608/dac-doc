@@ -57,6 +57,40 @@
           ]
         }
       ]
-    }
+    },
+    {"Quản lý bảo hành":[
+      {"Nghiệm thu":[
+        "dac/baohanh/contract_lv2",
+        "dac/baohanh/so_lv2",
+        "dac/baohanh/capnhattbi"
+      ]},
+      {
+        "Quản lý nhập/ xuất kho bảo hành": [
+          "dac/baohanh/transfer",
+          "dac/baohanh/import",
+          "dac/baohanh/export"
+        ]
+      },
+      {
+        "Quản lý thông tin bảo hành": [
+          "dac/baohanh/lot",
+          "dac/baohanh/tick",
+          "dac/baohanh/error",
+          {
+            "Thông tin sửa chữa": [
+              "dac/baohanh/psc",
+              "dac/baohanh/tcbh",
+              "dac/baohanh/tbh"
+            ]
+          }
+        ]
+      },
+      {
+        "Chăm sóc khách hàng": [
+          "dac/baohanh/kh",
+          "dac/baohanh/cskh"
+        ]
+      }
+    ]}
   ]
 }
