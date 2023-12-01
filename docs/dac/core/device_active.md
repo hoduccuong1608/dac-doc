@@ -1,7 +1,5 @@
 # Thiết bị kích hoạt
 
-- Xem báo cáo các thiết bị kích hoạt
-
   Các bước thực hiện như sau
 
 - Bước 1: Đăng nhập vào hệ thống > truy cập vào mục “Báo cáo” > “Thiết bị kích hoạt”

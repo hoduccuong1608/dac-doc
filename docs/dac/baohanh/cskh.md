@@ -1,11 +1,14 @@
 # Hỗ trợ khách hàng
 
 ## 1. Xem danh sách ticket hỗ trợ khách hàng
+
 - Bước 1: Đăng nhập vào hệ thống, truy cập phân hệ Quản lý bảo hành. Truy cập Chăm sóc khách hàng > Hỗ trợ khách hàng. Hệ thống hiển thị danh sách ticket hỗ trợ khách hàng
 ![img19.png](/img/cskh/cskh1.png)
 
-- Bước 2: Người dùng có thể tìm kiếm phiếu theo các trường trên màn hình danh sách
+- Bước 2: Người dùng có thể tìm kiếm phiếu theo các trường trên màn hình danh sách hoặc xuất danh sách ra file excel
 ![img19.png](/img/cskh/cskh2.png)
+
+  ![img19.png](/img/cskh/cskh0.png)
 
 ## 2. Thêm mới ticket hỗ trợ khách hàng
 

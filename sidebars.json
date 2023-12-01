@@ -90,6 +90,11 @@
           "dac/baohanh/kh",
           "dac/baohanh/cskh"
         ]
+      },
+      {
+        "Báo cáo - Thống kê": [
+          "dac/baohanh/baocao"
+        ]
       }
     ]}
   ]

@@ -5,7 +5,7 @@
 - Bước 1: Đăng nhập vào hệ thống, truy cập phân hệ Quản lý bảo hành. Truy cập Bảo hành > phiếu bảo hành. Hệ thống hiển thị danh sách phiếu bảo hành đã tạo
 ![img19.png](/img/tick/tick1.png)
 
-- Bước 2: Người dùng có thể tìm kiếm phiếu theo các trường trên màn hình danh sách
+- Bước 2: Người dùng có thể tìm kiếm phiếu theo các trường theo bộ lọc tương ứng và lựa chọn các cột thông tin hiển thị dưới màn hình danh sách
 ![img19.png](/img/tick/tick2.png)
 
 ## 2. Thêm mới phiếu bảo hành 
@@ -47,16 +47,15 @@
 ### 4.1 Chỉnh sửa trực tiếp trên màn hình giao diện
 - Bước 1: Tại màn hình chi tiết phiếu, click button Sửa
 ![img19.png](/img/tick/tick7.png)
-
 - Bước 2: Cập nhật thông tin cho  phiếu bảo hành
 
-- Bước 3: Sau khi cập nhật các thông tin đầy đủ và hợp lệ, nhấn "Lưu" để lưu thông tin chỉnh sửa. Hệ thống thông báo chỉnh sửa thành công, trở về màn hình danh sách  phiếu bảo hành
+- Bước 3: Sau khi cập nhật các thông tin đầy đủ và hợp lệ, nhấn "Lưu" để lưu thông tin chỉnh sửa. Hệ thống thông báo chỉnh sửa thành công, trở về màn hình chi tiết phiếu bảo hành
 ![img19.png](/img/tick/tick8.png)
 
 ### 4.2. Tính năng cập nhật bằng cách import file
 
 - Bước 1: Tại màn hình danh sách phiếu bảo hành, bấm nút "Update ticket". Hệ thống hiển thị popup Cập nhật thông tin phiếu bảo hành
-![img19.png](/img/tick/tick11.png)
+
 
 - Bước 2: Tải file mẫu tại popup, điền thông tin thiết bị vào file
     Lưu ý: Chỉ cho phép cập nhật những phiếu bảo hành khác trạng thái hoàn thành và cảnh báo
@@ -66,9 +65,8 @@
   - Nếu dữ liệu không hợp lệ, trả về file báo lỗi tương ứng
 ![img19.png](/img/tick/tick12.png)
 
-## 5. Xóa  phiếu bảo hành 
-
-Người dùng có thể xóa  phiếu bảo hành đã khai báo trên hệ thống. Chỉ cho phép xóa phiếu nhận chưa có thiết bị tạo yêu cầu chuyển và phiếu trả ở trạng thái "Đang gửi trả"
+## 5. Xóa ticket hỗ trợ khách hàng
+Người dùng có thể xóa ticket hỗ trợ khách hàng đã khai báo trên hệ thống. Chỉ cho phép xóa ticket hỗ trợ khách hàng ở trạng thái mới
 
 - Bước 1: Tại màn hình danh sách phiếu bảo hành, tích chọn checkbox tại bản ghi muốn xóa, sau đó bấm button Xóa ở góc phải màn hình
 

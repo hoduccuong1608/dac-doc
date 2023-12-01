@@ -1,4 +1,4 @@
-# Thiết bị bảo hành
+# Báo cáo thiết bị bảo hành
 
 Các bước thực hiện như sau
 

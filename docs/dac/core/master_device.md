@@ -1,9 +1,5 @@
 # Tổng hợp thiết bị
-
-- Xem báo cáo tổng hợp thiết bị
-
 Các bước thực hiện như sau
-
 - Bước 1: Đăng nhập vào hệ thống > truy cập vào mục “Báo cáo” > “Tổng hợp thiết bị”
 
 Hệ thống hiển thị màn hình báo cáo tổng hợp thiết bị

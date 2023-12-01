@@ -57,12 +57,11 @@ Lưu ý: Chỉ cho phép tạo lô trả cho những thiết bị đã có phi�
 ## 3. Xem chi tiết lô bảo hành
 
 - Bước 1: Tại màn hình danh sách lô bảo hành, bấm vào mã lô muốn xem chi tiết
-![img19.png](/img/lot/lot6.png)
-
-- Bước 2: Hệ thống hiển thị màn hình chi tiết lô bảo hành
 ![img19.png](/img/lot/lot7.png)
 
-Tại màn hình chi tiết, click "Xuất file excel" để xuất biên bản bàn giao dưới dạng excel
+- Bước 2: Hệ thống hiển thị màn hình chi tiết lô bảo hành, hiển thị thông tin phiếu bảo hành của tất cả các thiết bị trong lô, cho phép chọn các trường thông tin để hiển thị và tìm kiếm
+![img19.png](/img/lot/lot0.png)
+  Tại màn hình chi tiết, click "Xuất file excel" để xuất biên bản bàn giao dưới dạng excel
 ![img19.png](/img/lot/lot8.png)
 
 
