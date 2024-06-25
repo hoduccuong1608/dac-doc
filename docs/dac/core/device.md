@@ -211,3 +211,11 @@ b.  *Import thông tin điều chuyển*
 - Bước 3: Tại popup “Thông tin điều chuyển” nhập tất cả các trường thông tin hợp lệ > Click “Đồng ý” 
 ![img17.png](/img/device/img17.png)
 Thông tin điều chuyển được import thành công, hiển thị ở đầu danh sách với tên và mô tả như đã nhập
+
+## 9. Đền bù thiết bị
+Cho phép người dùng khai báo thông tin những thiết bị đã được đền bù, hệ thống cập nhật trạng thái tương ứng cho thiết bị
+- Bước 1: Đăng nhập vào hệ thống
+- Bước 2: Truy cập vào mục "Thiết bị" > Thiết bị đền bù>  Click button "Nhập thiết bị đã đền bù"
+![denbu1.png](/img/denbu/denbu1.png)
+- Bước 3: Tại popup Nhập thiết bị đền bù, chọn file > click Xác nhận. Hệ thống thông báo tải lên thành công, cập nhật trạng thái cho thiết bị tương ứng
+![denbu2.png](/img/denbu/denbu2.png)

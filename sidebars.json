@@ -48,6 +48,7 @@
             "dac/qlsx/pro_info2",
             "dac/qlsx/WIP",
             "dac/qlsx/workorder_report",
+            "dac/qlsx/Kqsx",
             {
               "Báo cáo tỉ lệ FPY/Yield rate": [
                 "dac/qlsx/FPY_station",
@@ -96,6 +97,11 @@
           "dac/baohanh/baocao"
         ]
       }
-    ]}
+    ]},
+    {
+      "Quản lý kế hoạch sản xuất": [
+        "dac/khsx/tonactive"
+      ]
+    }
   ]
 }

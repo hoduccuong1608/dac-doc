@@ -1,3 +1,4 @@
+
 # Báo cáo thiết bị bảo hành
 
 Các bước thực hiện như sau
@@ -19,4 +20,5 @@ Hệ thống hiển thị màn hình báo cáo thiết bị bảo hành
 
 - Bước 3: Người dùng có thể bấm vào nút “XUẤT FILE EXCEL” để thực hiện xuất báo cáo theo định dạng file excel
 ![img5.png](/img/baocao/bc4.png)
+
 
