@@ -211,9 +211,6 @@ function DocPageContent({ currentDocRoute, versionMetadata, children }) {
 					<div className={styles.docMainBanner}>
 						<div className={styles.docMainBanner_title}>
 							<span>Hướng dẫn sử dụng</span>
-							<br />
-							<span>hệ thống</span>
-							<span style={{ color: '#2C3D94' }}> {text}</span>
 						</div>
 						<img src={banner} title="main sme" />
 						<div className={styles.docMainBanner_bg} />
