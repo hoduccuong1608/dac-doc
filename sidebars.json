@@ -102,6 +102,11 @@
       "Quản lý kế hoạch sản xuất": [
         "dac/khsx/tonactive"
       ]
+    },
+    {
+      "SmartQC": [
+        "dac/smartqc/PM"
+      ]
     }
   ]
 }
