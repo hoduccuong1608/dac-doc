@@ -105,7 +105,9 @@
     },
     {
       "SmartQC": [
-        "dac/smartqc/PM"
+        "dac/smartqc/PM",
+        "dac/smartqc/SubPM",
+        "dac/smartqc/Thicong"
       ]
     }
   ]

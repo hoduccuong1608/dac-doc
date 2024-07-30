@@ -1,4 +1,4 @@
-# Đối tượng sử dụng: PM
+# Đối tượng sử dụng: Đội thi công
 ## 1. Màn hình điều khiển, dashboard
 Màn hình này hiển thị các thông tin thống kê tổng quát về tất cả dự án:
 
@@ -50,8 +50,3 @@ Các bước thực hiện:
 - Bước 2: Click icon xóa
 - Bước 3: Tại popup xác nhận, click Đồng ý để xác nhận xóa, Hủy bỏ để hủy bỏ thao tác
   ![nd3.png](/img/pm/nd3.png)
-
-
-
-
-
