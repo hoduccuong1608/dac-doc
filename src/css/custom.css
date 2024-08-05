@@ -74,3 +74,23 @@ main[class^='docMainContainer'] img {
 	margin-right: auto;
 	display: block;
 }
+
+img {
+	width: 100%;
+}
+
+table {
+	max-width: inherit !important;
+	/* overflow-x: scroll; */
+}
+
+  
+  /* Small screens */
+  @media (max-width: 640px) {
+	img {
+	  max-width: 400px !important;;
+	  height: auto;
+	}
+  }
+
+  

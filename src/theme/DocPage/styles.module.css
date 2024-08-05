@@ -102,3 +102,18 @@
     ) !important;
   }
 }
+
+@media (max-width: 768px) {
+  .docMainBanner_title {
+      margin-right: 0;
+  }
+
+  .hidden {
+    display: none  !important;
+  }
+
+  .docMainBanner_bg {
+
+    height: 100%;
+  }
+}
