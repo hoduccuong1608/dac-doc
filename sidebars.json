@@ -109,6 +109,11 @@
         "dac/smartqc/SubPM",
         "dac/smartqc/Thicong"
       ]
+    },
+    {
+      "Quản lý dự án": [
+        "dac/manager_project/test"
+      ]
     }
   ]
 }
