@@ -21,7 +21,9 @@
     "@svgr/webpack": "^5.5.0",
     "axios": "^0.21.1",
     "clsx": "^1.1.1",
+    "docs-2": "file:",
     "file-loader": "^6.2.0",
+    "html2pdf.js": "^0.10.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "url-loader": "^4.1.1"
